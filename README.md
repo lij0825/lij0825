@@ -1,6 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lij0825&show_icons=true&theme=transparent)
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lij0825)](https://solved.ac/lij0825/)
 
 
