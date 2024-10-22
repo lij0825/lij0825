@@ -1,9 +1,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lij0825)](https://solved.ac/lij0825/)
 
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/lij0825?pet-id=600511313693067540"
+    src="https://render.gitanimals.org/lines/lij0825?pet-id=636400291043692880"
     width="600"
     height="120"
   />
