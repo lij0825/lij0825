@@ -3,11 +3,11 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/lij0825?pet-id=636400291043692880"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/lij0825"
+  width="600"
+  height="300"
+/>
 </a>
   
 <!--
